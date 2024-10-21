@@ -1,8 +1,8 @@
 // Array of MOFUNDO image URLs from Google Drive
 const mofundoImages = [
-    "https://drive.google.com/uc?export=view&id=IMAGE_ID1",
-    "https://drive.google.com/uc?export=view&id=IMAGE_ID2",
-    "https://drive.google.com/uc?export=view&id=IMAGE_ID3",
+    https://drive.google.com/file/d/1rX2x6tlrXkL5wO7uwJbsx7bJgpcGEkdh/view?usp=drive_link
+    https://drive.google.com/file/d/1INOJaBCxZKJtDFaVnGNOKdemyBmpwpZ7/view?usp=drive_link
+    ,https://drive.google.com/file/d/15TEMCHf2yrJEKFUGR7xSCCxrDJTDsRlj/view?usp=drive_link
     // Add more images as needed
 ];
 
